@@ -1,0 +1,10 @@
+* clatter-irc
+
+Modern Common Lisp IRC library with IRCv3, SASL, TLS, DCC support
+
+|---------+------------------------------------------------------|
+| source  | git:https://github.com/glenneth1/clatter-irc.git    |
+| commit  | a9215e6                                              |
+| systems | clatter-irc                                          |
+|---------+------------------------------------------------------|
+
